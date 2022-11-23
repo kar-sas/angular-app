@@ -1,4 +1,4 @@
-# Angular-App test
+# Angular-App test it
 Simple Angular App made for learning purposes
 
 ## Setup
